@@ -1,0 +1,13 @@
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.exe
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.deps.json
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.runtimeconfig.json
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.dll
+C:\Users\Gamer\Desktop\AoC2015\Day07\bin\Debug\netcoreapp3.1\Day07.pdb
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.csprojAssemblyReference.cache
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.dll
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.pdb
+C:\Users\Gamer\Desktop\AoC2015\Day07\obj\Debug\netcoreapp3.1\Day07.genruntimeconfig.cache

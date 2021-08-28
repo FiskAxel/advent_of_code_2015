@@ -1,0 +1,13 @@
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.exe
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.deps.json
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.runtimeconfig.json
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.dll
+C:\Users\Gamer\Desktop\AoC2015\Day22\bin\Debug\netcoreapp3.1\Day22.pdb
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.csprojAssemblyReference.cache
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.dll
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.pdb
+C:\Users\Gamer\Desktop\AoC2015\Day22\obj\Debug\netcoreapp3.1\Day22.genruntimeconfig.cache
